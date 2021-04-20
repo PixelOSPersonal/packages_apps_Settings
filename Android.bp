@@ -94,6 +94,7 @@ android_library {
         "Settings-change-ids",
         "SystemUIUnfoldLib",
         "custom-preference",
+        "androidx.dynamicanimation_dynamicanimation",
     ],
 
     libs: [
